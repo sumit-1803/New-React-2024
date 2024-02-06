@@ -1,0 +1,18 @@
+html{
+    padding: 0px;
+    margin: 0px;
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    /* margin-bottom: 40px; */
+    border: 2px solid black;
+    padding: 35px;
+    border-radius: 5px;
+    background-color: #bec4c4;
+}
