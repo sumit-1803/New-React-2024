@@ -1,8 +1,6 @@
-# React + Vite
+Live on https://65c6251ce791fb0d05700435--subtle-peony-22ad3a.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learned hooks all over again 
+specially useState 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+useState is used to update the components that need updating and rerender them only on the whole page
